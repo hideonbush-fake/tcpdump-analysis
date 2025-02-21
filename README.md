@@ -4,7 +4,7 @@
 
 link: https://www.malware-traffic-analysis.net/index.html
 
-I will be analyzing and parsing PCAPs using only tcpdump. yes... I know that using both tcpdump and Wireshark is the most efficient; however, I'll be creating another project that incorporates tcpdump, Wireshark, and Snort IDS/IPS together :))))))))))
+I will be analyzing and parsing through PCAPs using only tcpdump. 
 
 ### Skills Learned
 
